@@ -3,4 +3,4 @@ Data Professional Survey Dashboard built in Power BI, featuring end-to-end data 
 Power Query and interactive visualizations of global salary trends and job satisfaction metrics.
 Tools: Power BI, Power Query, DAX
 ## Dashboard Preview
-![Main Dashboard View](images/1)
+![Main Dashboard View](images/1.png)
